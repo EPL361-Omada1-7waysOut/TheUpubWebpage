@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.3.1" created="2015-11-23 18:11" -->
+<!-- generator="WordPress/4.3.1" created="2015-11-24 17:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title></title>
 	<link>http://www.mypbox.net</link>
 	<description></description>
-	<pubDate>Mon, 23 Nov 2015 18:11:41 +0000</pubDate>
+	<pubDate>Tue, 24 Nov 2015 17:18:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://www.mypbox.net</wp:base_site_url>
@@ -1106,82 +1106,6 @@ Many surprises and gifts during the night!!]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>4+1 beers!!!</title>
-		<link>http://www.mypbox.net/2015/11/14/offers-2/</link>
-		<pubDate>Sat, 14 Nov 2015 18:26:20 +0000</pubDate>
-		<dc:creator><![CDATA[upub]]></dc:creator>
-		<guid isPermaLink="false">http://www.mypbox.net/?p=176</guid>
-		<description></description>
-		<content:encoded><![CDATA[&nbsp;
-
-&nbsp;
-
-&nbsp;]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>176</wp:post_id>
-		<wp:post_date>2015-11-14 18:26:20</wp:post_date>
-		<wp:post_date_gmt>2015-11-14 18:26:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>offers-2</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="offers"><![CDATA[Offers]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[prosfora-oeoeo]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[213]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>ΠΡΟΣΦΟΡΑ!!</title>
-		<link>http://www.mypbox.net/2015/11/13/offers-2-3/</link>
-		<pubDate>Fri, 13 Nov 2015 10:00:34 +0000</pubDate>
-		<dc:creator><![CDATA[upub]]></dc:creator>
-		<guid isPermaLink="false">http://www.mypbox.net/?p=182</guid>
-		<description></description>
-		<content:encoded><![CDATA[<a href="http://www.mypbox.net/wp-content/uploads/2015/11/DSC_1116.jpg"><img class="alignnone size-medium wp-image-216" src="http://www.mypbox.net/wp-content/uploads/2015/11/DSC_1116-169x300.jpg" alt="DSC_1116" width="169" height="300" /></a>
-
-Θα θέλαμε να πούμε με το τρόπο μας ένα μεγάλο ΕΥΧΑΡΙΣΤΩ σε όλους εσάς που μας στηρίξατε σε αυτό το ξεκίνημα μας,που μας δεχτήκατε και που μας αγκαλιάσατε, και τι καλύτερο ευχαριστώ θα μπορούσαμε να πούμε από το να προσφέρουμε μαζί με τον ποιοτικό καφέ μας και μια νόστιμη τυρόπιτα, πάντα προσφερόμενα με χαμόγελο από τους ανθρώπους που απαρτίζουν το The U pub! Περισσότερες πληροφορίες για την προσφορά μας στο προωθητικό μας φυλλάδιο και φυσικά στο..Τhe U pub!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>182</wp:post_id>
-		<wp:post_date>2015-11-13 10:00:34</wp:post_date>
-		<wp:post_date_gmt>2015-11-13 10:00:34</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>offers-2-3</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="offers"><![CDATA[Offers]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[prosfora2]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[111]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>20151113_144038</title>
 		<link>http://www.mypbox.net/?attachment_id=204</link>
 		<pubDate>Sun, 15 Nov 2015 16:34:50 +0000</pubDate>
@@ -1272,54 +1196,6 @@ Many surprises and gifts during the night!!]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:812;s:6:"height";i:457;s:4:"file";s:27:"2015/11/20151113_144434.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"20151113_144434-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"20151113_144434-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:27:"20151113_144434-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.2000000000000002;s:6:"credit";s:0:"";s:6:"camera";s:8:"SM-N910F";s:7:"caption";s:1:"?";s:17:"created_timestamp";i:1447425874;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.8";s:3:"iso";s:3:"160";s:13:"shutter_speed";s:4:"0.04";s:5:"title";s:0:"";s:11:"orientation";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>info</title>
-		<link>http://www.mypbox.net/2015/11/19/info/</link>
-		<pubDate>Thu, 19 Nov 2015 15:34:35 +0000</pubDate>
-		<dc:creator><![CDATA[upub]]></dc:creator>
-		<guid isPermaLink="false">http://www.mypbox.net/?p=209</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p style="padding-left: 120px;">Address: University Avenue 1, Nicosia, Cyprus</p>
-<p style="padding-left: 120px;">Phone: 22 895132</p>
-<p style="padding-left: 120px;">Email: theupubcyprus@gmail.com</p>
-<p style="padding-left: 120px;">Start Date: Opened on September 1</p>
-<p style="padding-left: 120px;">Hours:</p>
-<p style="padding-left: 120px;">Mon-Fri: 8:00 am-12:00 am</p>
-<p style="padding-left: 120px;">Sat-Sun: 4:00 pm-12:00 am</p>
-<p style="padding-left: 120px;">Parking: Parking Lot</p>
-<p style="padding-left: 120px;">General Manager</p>
-<p style="padding-left: 120px;">Μάριος Χριστοδούλου</p>
-<p style="padding-left: 120px;">Δημήτρης Καρπασίτης</p>
-<p style="padding-left: 120px;">Σάββας Αναξαγόρου</p>
-<p style="padding-left: 120px;"> <a href="http://www.mypbox.net/wp-content/uploads/2015/11/jhgfjhghjgkhggmhjkighjfhgdyduguh.jpg"><img class="alignnone size-medium wp-image-146" src="http://www.mypbox.net/wp-content/uploads/2015/11/jhgfjhghjgkhggmhjkighjfhgdyduguh-300x297.jpg" alt="GOOGLE MAP" width="300" height="297" /></a></p>
-<p style="padding-left: 120px;"><span style="text-decoration: underline;"><span style="color: #0000ff;"><strong><a style="color: #0000ff; text-decoration: underline;" href="https://www.here.com/directions/drive/mylocation/The-U-pub:35.145179,33.409424?map=35.13886,33.41406,14,normal&amp;fb_locale=en_US">Get Directions</a></strong></span></span></p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>209</wp:post_id>
-		<wp:post_date>2015-11-19 15:34:35</wp:post_date>
-		<wp:post_date_gmt>2015-11-19 15:34:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>info</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="info"><![CDATA[Info]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1447947422]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -1475,6 +1351,285 @@ Many surprises and gifts during the night!!]]></content:encoded>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:900;s:4:"file";s:60:"2015/11/12111946_10207603966519057_4733013939705438431_n.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:60:"12111946_10207603966519057_4733013939705438431_n-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:60:"12111946_10207603966519057_4733013939705438431_n-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:60:"12111946_10207603966519057_4733013939705438431_n-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>20151113_144038 (2)</title>
+		<link>http://www.mypbox.net/?attachment_id=234</link>
+		<pubDate>Tue, 24 Nov 2015 16:17:36 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144038-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[?]]></excerpt:encoded>
+		<wp:post_id>234</wp:post_id>
+		<wp:post_date>2015-11-24 16:17:36</wp:post_date>
+		<wp:post_date_gmt>2015-11-24 16:17:36</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>20151113_144038-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144038-2.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:812;s:6:"height";i:457;s:4:"file";s:29:"2015/11/20151113_144038-2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"20151113_144038-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"20151113_144038-2-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:29:"20151113_144038-2-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.2000000000000002;s:6:"credit";s:0:"";s:6:"camera";s:8:"SM-N910F";s:7:"caption";s:1:"?";s:17:"created_timestamp";i:1447425638;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.8";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:16:"0.03030303030303";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/11/20151113_144038-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>20151113_144138 (2)</title>
+		<link>http://www.mypbox.net/?attachment_id=235</link>
+		<pubDate>Tue, 24 Nov 2015 16:18:06 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144138-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[?]]></excerpt:encoded>
+		<wp:post_id>235</wp:post_id>
+		<wp:post_date>2015-11-24 16:18:06</wp:post_date>
+		<wp:post_date_gmt>2015-11-24 16:18:06</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>20151113_144138-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144138-2.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/11/20151113_144138-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:812;s:6:"height";i:457;s:4:"file";s:29:"2015/11/20151113_144138-2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"20151113_144138-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"20151113_144138-2-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:29:"20151113_144138-2-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.2000000000000002;s:6:"credit";s:0:"";s:6:"camera";s:8:"SM-N910F";s:7:"caption";s:1:"?";s:17:"created_timestamp";i:1447425698;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.8";s:3:"iso";s:2:"40";s:13:"shutter_speed";s:18:"0.0071942446043165";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>20151113_144434 (2)</title>
+		<link>http://www.mypbox.net/?attachment_id=236</link>
+		<pubDate>Tue, 24 Nov 2015 16:18:35 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144434-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[?]]></excerpt:encoded>
+		<wp:post_id>236</wp:post_id>
+		<wp:post_date>2015-11-24 16:18:35</wp:post_date>
+		<wp:post_date_gmt>2015-11-24 16:18:35</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>20151113_144434-2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144434-2.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/11/20151113_144434-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:812;s:6:"height";i:457;s:4:"file";s:29:"2015/11/20151113_144434-2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"20151113_144434-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"20151113_144434-2-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:29:"20151113_144434-2-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.2000000000000002;s:6:"credit";s:0:"";s:6:"camera";s:8:"SM-N910F";s:7:"caption";s:1:"?";s:17:"created_timestamp";i:1447425874;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.8";s:3:"iso";s:3:"160";s:13:"shutter_speed";s:4:"0.04";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>20151113_144038 (3)</title>
+		<link>http://www.mypbox.net/?attachment_id=237</link>
+		<pubDate>Tue, 24 Nov 2015 16:19:08 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144038-3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[?]]></excerpt:encoded>
+		<wp:post_id>237</wp:post_id>
+		<wp:post_date>2015-11-24 16:19:08</wp:post_date>
+		<wp:post_date_gmt>2015-11-24 16:19:08</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>20151113_144038-3</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://www.mypbox.net/wp-content/uploads/2015/11/20151113_144038-3.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/11/20151113_144038-3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:812;s:6:"height";i:457;s:4:"file";s:29:"2015/11/20151113_144038-3.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:29:"20151113_144038-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:29:"20151113_144038-3-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:29:"20151113_144038-3-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.2000000000000002;s:6:"credit";s:0:"";s:6:"camera";s:8:"SM-N910F";s:7:"caption";s:1:"?";s:17:"created_timestamp";i:1447425638;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.8";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:16:"0.03030303030303";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>20151113_144038</title>
+		<link>http://www.mypbox.net/?attachment_id=238</link>
+		<pubDate>Tue, 24 Nov 2015 17:15:38 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/wp-content/uploads/2015/11/20151113_1440381.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[?]]></excerpt:encoded>
+		<wp:post_id>238</wp:post_id>
+		<wp:post_date>2015-11-24 17:15:38</wp:post_date>
+		<wp:post_date_gmt>2015-11-24 17:15:38</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>20151113_144038-4</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>http://www.mypbox.net/wp-content/uploads/2015/11/20151113_1440381.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[2015/11/20151113_1440381.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:812;s:6:"height";i:457;s:4:"file";s:28:"2015/11/20151113_1440381.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"20151113_1440381-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"20151113_1440381-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:23:"clovemix-homepage-thumb";a:4:{s:4:"file";s:28:"20151113_1440381-240x145.jpg";s:5:"width";i:240;s:6:"height";i:145;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:11:{s:8:"aperture";d:2.2000000000000002;s:6:"credit";s:0:"";s:6:"camera";s:8:"SM-N910F";s:7:"caption";s:1:"?";s:17:"created_timestamp";i:1447425638;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"4.8";s:3:"iso";s:2:"64";s:13:"shutter_speed";s:16:"0.03030303030303";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>4+1 beers!!!</title>
+		<link>http://www.mypbox.net/2015/11/14/offers-2/</link>
+		<pubDate>Sat, 14 Nov 2015 18:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/?p=176</guid>
+		<description></description>
+		<content:encoded><![CDATA[&nbsp;
+
+&nbsp;
+
+&nbsp;]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>176</wp:post_id>
+		<wp:post_date>2015-11-14 18:26:20</wp:post_date>
+		<wp:post_date_gmt>2015-11-14 18:26:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>offers-2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="offers"><![CDATA[Offers]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[prosfora-oeoeo]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[213]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ΠΡΟΣΦΟΡΑ!!</title>
+		<link>http://www.mypbox.net/2015/11/13/offers-2-3/</link>
+		<pubDate>Fri, 13 Nov 2015 10:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/?p=182</guid>
+		<description></description>
+		<content:encoded><![CDATA[<a href="http://www.mypbox.net/wp-content/uploads/2015/11/DSC_1116.jpg"><img class="alignnone size-medium wp-image-216" src="http://www.mypbox.net/wp-content/uploads/2015/11/DSC_1116-169x300.jpg" alt="DSC_1116" width="169" height="300" /></a>
+
+Θα θέλαμε να πούμε με το τρόπο μας ένα μεγάλο ΕΥΧΑΡΙΣΤΩ σε όλους εσάς που μας στηρίξατε σε αυτό το ξεκίνημα μας,που μας δεχτήκατε και που μας αγκαλιάσατε, και τι καλύτερο ευχαριστώ θα μπορούσαμε να πούμε από το να προσφέρουμε μαζί με τον ποιοτικό καφέ μας και μια νόστιμη τυρόπιτα, πάντα προσφερόμενα με χαμόγελο από τους ανθρώπους που απαρτίζουν το The U pub! Περισσότερες πληροφορίες για την προσφορά μας στο προωθητικό μας φυλλάδιο και φυσικά στο..Τhe U pub!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>182</wp:post_id>
+		<wp:post_date>2015-11-13 10:00:34</wp:post_date>
+		<wp:post_date_gmt>2015-11-13 10:00:34</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>offers-2-3</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="offers"><![CDATA[Offers]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[prosfora2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[111]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>info</title>
+		<link>http://www.mypbox.net/2015/11/19/info/</link>
+		<pubDate>Thu, 19 Nov 2015 15:34:35 +0000</pubDate>
+		<dc:creator><![CDATA[upub]]></dc:creator>
+		<guid isPermaLink="false">http://www.mypbox.net/?p=209</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p style="padding-left: 120px;">Address: University Avenue 1, Nicosia, Cyprus</p>
+<p style="padding-left: 120px;">Phone: 22 895132</p>
+<p style="padding-left: 120px;">Email: theupubcyprus@gmail.com</p>
+<p style="padding-left: 120px;">Start Date: Opened on September 1</p>
+<p style="padding-left: 120px;">Hours:</p>
+<p style="padding-left: 120px;">Mon-Fri: 8:00 am-12:00 am</p>
+<p style="padding-left: 120px;">Sat-Sun: 4:00 pm-12:00 am</p>
+<p style="padding-left: 120px;">Parking: Parking Lot</p>
+<p style="padding-left: 120px;">General Manager</p>
+<p style="padding-left: 120px;">Μάριος Χριστοδούλου</p>
+<p style="padding-left: 120px;">Δημήτρης Καρπασίτης</p>
+<p style="padding-left: 120px;">Σάββας Αναξαγόρου</p>
+<p style="padding-left: 120px;"> <a href="http://www.mypbox.net/wp-content/uploads/2015/11/jhgfjhghjgkhggmhjkighjfhgdyduguh.jpg"><img class="alignnone size-medium wp-image-146" src="http://www.mypbox.net/wp-content/uploads/2015/11/jhgfjhghjgkhggmhjkighjfhgdyduguh-300x297.jpg" alt="GOOGLE MAP" width="300" height="297" /></a></p>
+<p style="padding-left: 120px;"><span style="text-decoration: underline;"><span style="color: #0000ff;"><strong><a style="color: #0000ff; text-decoration: underline;" href="https://www.here.com/directions/drive/mylocation/The-U-pub:35.145179,33.409424?map=35.13886,33.41406,14,normal&amp;fb_locale=en_US">Get Directions</a></strong></span></span></p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>209</wp:post_id>
+		<wp:post_date>2015-11-19 15:34:35</wp:post_date>
+		<wp:post_date_gmt>2015-11-19 15:34:35</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>info</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="info"><![CDATA[Info]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1447947422]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
